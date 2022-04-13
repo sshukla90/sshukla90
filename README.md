@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sshukla90.
-- 👀 I’m interested in network automation and programmability. 
-- 🌱 I’m currently working on my CCIE EI certification and planning to appear before end of 2022.
+- 👀 I’m interested in network design, automation and programmability. 
+- 🌱 CCIE EI lab in progress.
 - 💞️ Feel free to collaborate on network automation scripts.
 - 📫 Reach me on my discord sshukla90#1290.
 
